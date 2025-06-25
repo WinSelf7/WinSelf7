@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <!-- Typing SVG -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20Developer;Super%20High-level%20AI%20Developer;Honest%20Blockchain%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40" 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20Developer;Super%20High-level%20AI%20Developer;Honest%20Blockchain%20Developer&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=40" 
   alt="Typing animation banner" 
 />
 
