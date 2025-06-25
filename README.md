@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, Nice to Meet to You</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<!-- Typing SVG -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20Developer;Super%20High-level%20AI%20Developer;Honest%20Blockchain%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45" 
+  alt="Typing animation banner" 
+/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Super High-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+<!-- Snake animation -->
+<img 
+  align="center" 
+  src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" 
+  alt="Snake animation" 
+/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickdev0118" alt="nickdev0118" /></a> </p>
